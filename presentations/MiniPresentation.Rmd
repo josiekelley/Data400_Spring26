@@ -27,7 +27,7 @@ New York City Public Schools has publicly available data on its schools and stud
 - Percentage of Students in Temporary Housing 
 - Percentage of Students Classified as Living in Poverty
 
-<img src="NYC_DOE_Logo.png" class="small" style="width:300px; display:inl; margin:auto;">
+<img src="images/NYC_DOE_Logo.png" class="small" style="width:300px; display:inl; margin:auto;">
 
 ---
 
@@ -43,17 +43,17 @@ New York City Public Schools has publicly available data on its schools and stud
 ---
 
 # Box Plots
-<img src="Attendance.png" class="small" style="width:265px; display:inl; margin:auto;">
-<img src="Housing.png" class="small" style="width:265px; display:inl; margin:auto;">
-<img src="ClassSize.png" class="small" style="width:265px; display:inl; margin:auto;">
-<img src="Poverty.png" class="small" style="width:265px; display:inl; margin:auto;">
-<img src="TestScores.png" class="small" style="width:265px; display:inline; margin:auto;">
+<img src="images/Attendance.png" class="small" style="width:265px; display:inl; margin:auto;">
+<img src="images/Housing.png" class="small" style="width:265px; display:inl; margin:auto;">
+<img src="images/ClassSize.png" class="small" style="width:265px; display:inl; margin:auto;">
+<img src="images/Poverty.png" class="small" style="width:265px; display:inl; margin:auto;">
+<img src="images/TestScores.png" class="small" style="width:265px; display:inline; margin:auto;">
 ---
 # Scatter Plots
-<img src="AttendScat.png" class="small" style="width:365px; display:inl; margin:auto;">
-<img src="TempScat.png" class="small" style="width:365px; display:inl; margin:auto;">
-<img src="ClassScat.png" class="small" style="width:365px; display:inl; margin:auto;">
-<img src="PovertyScat.png" class="small" style="width:365px; display:inl; margin:auto;">
+<img src="images/AttendScat.png" class="small" style="width:365px; display:inl; margin:auto;">
+<img src="images/TempScat.png" class="small" style="width:365px; display:inl; margin:auto;">
+<img src="images/ClassScat.png" class="small" style="width:365px; display:inl; margin:auto;">
+<img src="images/PovertyScat.png" class="small" style="width:365px; display:inl; margin:auto;">
 ---
 # Linear Regression
 
